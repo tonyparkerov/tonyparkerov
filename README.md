@@ -13,18 +13,6 @@ Hey there, I'm Anton!
 
 QA Engineer
 
-### Languages :
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
-  <tr>
-    
-        🇺🇦 Ukrainian - Native | 🇬🇧 English - Intermediate
-        
-  </tr>
-</table>
-</div>
-
 ### My stack and tools :
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -124,10 +112,6 @@ QA Engineer
   </td>
   </tr>
 </table>
-
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
   
 <br>
 
