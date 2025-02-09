@@ -1,13 +1,13 @@
 <div id="header" align="center">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-<img src="./assets/github.gif" width="70"/>
-<h1>
-Hey there, I'm Anton! <img src="./assets/giphy.gif" width="30px" alt="GIF">
-</h1>
-</div>
+<img src="./assets/github.gif" width="100"/>
 
-</div>
+<h1>
+Hey there, I'm Anton!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+
+   </div>
   
 ### About Me :
 
