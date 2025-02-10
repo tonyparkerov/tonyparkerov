@@ -1,8 +1,8 @@
 <div id="header" align="center">
 <h1>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="./assets/github.gif" width="80"/>
-Hey there, I'm Anton!
+<span>Hey there, I'm Anton!</span>
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </div>
 </h1>
