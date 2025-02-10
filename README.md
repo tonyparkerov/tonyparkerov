@@ -1,19 +1,16 @@
 <div id="header" align="center">
-
-<img src="./assets/github.gif" width="100"/>
-
 <h1>
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="./assets/github.gif" width="80"/>
 Hey there, I'm Anton!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
+</div>
 </h1>
+</div>
 
-   </div>
-  
-### About Me :
+**About Me** : Versatile QA Engineer with over 6 years of industry experience, specializing in web and desktop application testing, covering frontend and backend. Played a key role in large-scale projects by optimizing QA processes, enhancing test coverage, implementing various testing methodologies and expanding automation capabilities. An adaptable professional ready to bring a proven track record and a wealth of knowledge to innovative projects within a dynamic company.
 
-QA Engineer
-
-### My stack and tools :
+#### My tools :
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -61,7 +58,7 @@ QA Engineer
 </table>
 </div>
 
-### GitHub Stats :
+#### GitHub Stats :
 
 <table align="center">
   <tr>
@@ -78,8 +75,6 @@ QA Engineer
   </td>
   </tr>
 </table>
-  
-<br>
 
 <div align="center">
 <a href="https://u8views.com/github/tonyparkerov"><img src="https://u8views.com/api/v1/github/profiles/14942194/views/day-week-month-total-count.svg"></a>
