@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/tonyparkerov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyparkerov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=1800" alt="Anton Pro github stats" /></a>
+  <a href="https://github.com/tonyparkerov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyparkerov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton Pro github stats" /></a>
   </td>
   <td>
   <a href="https://github.com/tonyparkerov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyparkerov&layout=compact&theme=buefy&hide_border=true" /></a>
